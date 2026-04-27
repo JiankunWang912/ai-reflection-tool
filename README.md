@@ -18,22 +18,32 @@ Built as a research prototype for **SI 840: Research Design** (Graduate-level HC
 - Send data to any server or third party
 - Require users to paste sensitive research content
 
+## Screenshots
+
+| Welcome & Privacy Notice | Select Research Task | Select AI Contribution |
+|:---:|:---:|:---:|
+| ![Welcome](screenshots/app_page1.png) | ![Task Select](screenshots/app_page2.png) | ![AI Contribution](screenshots/app_page3.png) |
+
+| Reflection Questions | Reflection Result | Disclosure Draft |
+|:---:|:---:|:---:|
+| ![Reflection](screenshots/app_page4.png) | ![Result](screenshots/app_page5.png) | ![Disclosure](screenshots/app_page6.png) |
+
 ## App Flow
 
 ```
-Welcome & Privacy Notice
+Screen 1: Welcome & Privacy Notice
     |
-Select Research Task (single-select, 9 types)
+Screen 2: Select Research Task (single-select, 9 types)
     |
-Select AI Contribution (multi-select, 9 types)
+Screen 3: Select AI Contribution (multi-select, 9 types)
     |
-Reflection Questions (6 yes/no/maybe questions)
+Screen 4: Reflection Questions (6 yes/no/maybe questions)
     |
-Reflection Result (category + summary + guidance)
+Screen 5: Reflection Result (category + summary + guidance)
     |
-Optional Disclosure Draft (copy to clipboard)
+Screen 6: Optional Disclosure Draft (copy to clipboard)
     |
-Saved Reflections / History (local, deletable)
+Screen 7: Saved Reflections / History (local, deletable)
 ```
 
 ## Tech Stack
