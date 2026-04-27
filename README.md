@@ -2,7 +2,7 @@
 
 A lightweight mobile app prototype that helps doctoral students reflect on, document, and optionally disclose their use of AI tools in research tasks.
 
-Built as a research prototype for **SI 840n** (Final Design).
+Built as a research prototype for **SI 840** (Final Design).
 
 ## What This App Does
 
